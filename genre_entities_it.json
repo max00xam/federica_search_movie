@@ -1,0 +1,371 @@
+[
+    {
+        "value": "animazione",
+        "synonyms": [
+            "animazione",
+            "anime",
+            "cartone",
+            "cartone animato",
+            "cartoni animati",
+            "d'animazione",
+            "di animazione",
+            "film a cartoni",
+            "film a cartoni animati",
+            "film anime",
+            "film d'animazione",
+            "film di animanzione"
+        ]
+    },
+    {
+        "value": "avventura",
+        "synonyms": [
+            "avventura",
+            "d'avventura",
+            "di avventura",
+            "film d'avventura",
+            "film di avventura"
+        ]
+    },
+    {
+        "value": "azione",
+        "synonyms": [
+            "azione",
+            "d'azione",
+            "di azione",
+            "film d'azione",
+            "film di azione"
+        ]
+    },
+    {
+        "value": "commedia",
+        "synonyms": [
+            "commedia",
+            "divertente",
+            "film di commedia",
+            "film divertente",
+            "film leggero",
+            "leggero"
+        ]
+    },
+    {
+        "value": "documentario",
+        "synonyms": [
+            "documentario",
+            "film documentario"
+        ]
+    },
+    {
+        "value": "drammatico",
+        "synonyms": [
+            "dramma",
+            "drammatico",
+            "film dramma",
+            "film drammatico"
+        ]
+    },
+    {
+        "value": "famiglia",
+        "synonyms": [
+            "famiglia",
+            "film famiglia",
+            "film per famiglia",
+            "film per famiglie"
+        ]
+    },
+    {
+        "value": "fantascienza",
+        "synonyms": [
+            "fantascienza",
+            "film di fantascienza",
+            "film sci-fi",
+            "film scifi",
+            "sci-fi",
+            "scifi"
+        ]
+    },
+    {
+        "value": "fantasy",
+        "synonyms": [
+            "fantasy",
+            "film fantasy"
+        ]
+    },
+    {
+        "value": "film",
+        "synonyms": [
+            "film"
+        ]
+    },
+    {
+        "value": "giallo",
+        "synonyms": [
+            "crime",
+            "film crime",
+            "film giallo",
+            "giallo"
+        ]
+    },
+    {
+        "value": "guerra",
+        "synonyms": [
+            "film di guerra",
+            "guerra"
+        ]
+    },
+    {
+        "value": "horror",
+        "synonyms": [
+            "dell'orrore",
+            "film da paura",
+            "film dell'orrore",
+            "film di paura",
+            "film horror",
+            "horror",
+            "paura"
+        ]
+    },
+    {
+        "value": "mistero",
+        "synonyms": [
+            "di mistero",
+            "film di mistero",
+            "film misterioso",
+            "misterioso",
+            "mistero"
+        ]
+    },
+    {
+        "value": "musica",
+        "synonyms": [
+            "di musica",
+            "film di musica",
+            "film musica",
+            "film musical",
+            "film musicale",
+            "musica",
+            "musical",
+            "musicale"
+        ]
+    },
+    {
+        "value": "romantico",
+        "synonyms": [
+            "di romance",
+            "film di romance",
+            "film romance",
+            "film romantico",
+            "romance",
+            "romantico"
+        ]
+    },
+    {
+        "value": "storia",
+        "synonyms": [
+            "di storia",
+            "film di storia",
+            "film storico",
+            "storia",
+            "storico"
+        ]
+    },
+    {
+        "value": "tf_animazione",
+        "synonyms": [
+            "serie animazione",
+            "serie anime",
+            "serie cartoni animati",
+            "serie d'animazione",
+            "serie di animazione",
+            "telefilm animazione",
+            "telefilm anime",
+            "telefilm cartoni animati",
+            "telefilm di animazione"
+        ]
+    },
+    {
+        "value": "tf_avventura",
+        "synonyms": [
+            "serie avventura",
+            "serie d'avventura",
+            "serie di avventura",
+            "telefilm avventura",
+            "telefilm d'avventura",
+            "telefilm di avventura"
+        ]
+    },
+    {
+        "value": "tf_azione",
+        "synonyms": [
+            "serie d'azione",
+            "serie di azione",
+            "telefilm d'azione",
+            "telefilm di azione"
+        ]
+    },
+    {
+        "value": "tf_commedia",
+        "synonyms": [
+            "serie commedia",
+            "serie di commedia",
+            "serie divertente",
+            "serie leggera",
+            "telefilm commedia",
+            "telefilm di commedia",
+            "telefilm divertente",
+            "telefilm leggero"
+        ]
+    },
+    {
+        "value": "tf_documentario",
+        "synonyms": [
+            "serie documentario",
+            "telefilm documentario"
+        ]
+    },
+    {
+        "value": "tf_drammatico",
+        "synonyms": [
+            "serie dramma",
+            "serie drammatica",
+            "telefilm dramma",
+            "telefilm drammatico"
+        ]
+    },
+    {
+        "value": "tf_famiglia",
+        "synonyms": [
+            "serie famiglia",
+            "serie per famiglia",
+            "serie per famiglie",
+            "telefilm famiglia",
+            "telefilm per famiglia",
+            "telefilm per famiglie"
+        ]
+    },
+    {
+        "value": "tf_fantascienza",
+        "synonyms": [
+            "serie di fantascienza",
+            "serie sci-fi",
+            "serie scifi",
+            "telefilm di fantascienza",
+            "telefilm sci-fi",
+            "telefilm scifi"
+        ]
+    },
+    {
+        "value": "tf_fantasy",
+        "synonyms": [
+            "serie fantasy",
+            "telefilm fantasy"
+        ]
+    },
+    {
+        "value": "tf_giallo",
+        "synonyms": [
+            "serie crime",
+            "serie giallo",
+            "telefilm crime",
+            "telefilm giallo"
+        ]
+    },
+    {
+        "value": "tf_guerra",
+        "synonyms": [
+            "serie di guerra",
+            "telefilm di guerra"
+        ]
+    },
+    {
+        "value": "tf_horror",
+        "synonyms": [
+            "serie da paura",
+            "serie dell'orrore",
+            "serie di paura",
+            "serie horror",
+            "telefilm da paura",
+            "telefilm dell'orrore",
+            "telefilm di paura",
+            "telefilm horror"
+        ]
+    },
+    {
+        "value": "tf_mistero",
+        "synonyms": [
+            "serie di mistero",
+            "serie misteriosa",
+            "telefilm di mistero",
+            "telefilm misterioso"
+        ]
+    },
+    {
+        "value": "tf_musica",
+        "synonyms": [
+            "serie di musica",
+            "serie musica",
+            "serie musical",
+            "serie musicale",
+            "telefilm di musica",
+            "telefilm musica",
+            "telefilm musical",
+            "telefilm musicale"
+        ]
+    },
+    {
+        "value": "tf_romantico",
+        "synonyms": [
+            "serie di romance",
+            "serie romance",
+            "serie romantica",
+            "telefilm di romance",
+            "telefilm romance",
+            "telefilm romantico"
+        ]
+    },
+    {
+        "value": "tf_storia",
+        "synonyms": [
+            "serie di storia",
+            "serie storica",
+            "telefilm di storia",
+            "telefilm storico"
+        ]
+    },
+    {
+        "value": "tf_telefilm",
+        "synonyms": [
+            "serie",
+            "serie tv",
+            "serietv",
+            "telefilm"
+        ]
+    },
+    {
+        "value": "tf_thriller",
+        "synonyms": [
+            "serie thriller",
+            "telefilm thriller"
+        ]
+    },
+    {
+        "value": "tf_western",
+        "synonyms": [
+            "serie western",
+            "telefilm western"
+        ]
+    },
+    {
+        "value": "thriller",
+        "synonyms": [
+            "film thriller",
+            "thriller"
+        ]
+    },
+    {
+        "value": "western",
+        "synonyms": [
+            "film western",
+            "western"
+        ]
+    }
+]
