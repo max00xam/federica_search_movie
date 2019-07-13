@@ -1,5 +1,6 @@
 **Intent search_movie expressions:**
 
+```
 search person
 search person prompt
 search person with keywords
@@ -27,9 +28,11 @@ search genre where person with keywords prompt
 
 genre where person with keywords
 genre where person with keywords prompt
+```
 
 **Entities:**
 
+```
 search      --> [search_entities_it.json]
 genre       --> [genre_entities_it.json]
 where       --> [where_entities_it.json]
@@ -39,3 +42,4 @@ prompt      --> [prompt_entities_it.json]
 title       --> @sys.any
 keywords    --> @sys.any
 person      --> @sys.person
+```
